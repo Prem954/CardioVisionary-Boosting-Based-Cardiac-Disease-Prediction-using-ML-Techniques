@@ -80,9 +80,5 @@ The following ML models were trained and evaluated:
 - Scikit-learn, Flask, and the Python ML ecosystem  
 
 ---
-## 📜 License
-This project is licensed under the [MIT License](./LICENSE).
-
-----
 
 *Made with ❤ to support preventive healthcare.*
